@@ -1,4 +1,4 @@
-#!/Users/uo/Documents/django_projects/django_project_1/myenv/bin/python3.11
+#!/Users/uo/Documents/django_projects/django_project_1/my_env/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys
